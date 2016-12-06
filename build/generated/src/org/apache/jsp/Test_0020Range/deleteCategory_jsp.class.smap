@@ -1,0 +1,23 @@
+SMAP
+deleteCategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 deleteCategory.jsp
+Test Range/deleteCategory.jsp
+*L
+1,6:48
+10,16:53
+26,7:70
+32,19:77
+51,4:97
+54,4:101
+58,4:105,3
+62,5:117
+66,3:122
+68,2:125
+70:127,3
+71,2:130
+90:150,2
+91,6:152
+*E

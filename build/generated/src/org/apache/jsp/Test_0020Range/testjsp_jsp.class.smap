@@ -1,0 +1,15 @@
+SMAP
+testjsp_jsp.java
+JSP
+*S JSP
+*F
++ 0 testjsp.jsp
+Test Range/testjsp.jsp
+*L
+5,52:47
+56,2:99
+58:101,3
+59,2:104
+61,4:107
+64,15:111
+*E
